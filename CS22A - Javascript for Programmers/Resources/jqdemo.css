@@ -1,0 +1,18 @@
+body {
+	background-color:#c0e4fe;
+	font-size:20px;
+}
+.container{
+	height:250px;
+}
+.small {
+	width:200px;
+	height:200px;
+	position:relative;
+}
+.important {
+	font-weight: bold;
+}
+.selected {
+	color:green;
+}
